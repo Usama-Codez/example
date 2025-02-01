@@ -1,10 +1,6 @@
 # example
-# Testing Some Functionalities
+Testing Some Functionalities
 
 
 I am Usama Akram
-
 I am Asad Raza
-
-
-
